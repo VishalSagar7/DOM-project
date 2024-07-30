@@ -1,5 +1,5 @@
 
-Replace `yourusername`, `your-repository`, and `your-live-project-url.com` with your actual GitHub username, repository name, and the URL where the project is hosted.
+
 
 ### Summary
 
